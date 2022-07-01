@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming 🎮 , music (listening aspect 🎧 🎶 ), sports ⚽️ ⚾️ (and esports 🎮).
 - 🌱 I’m currently learning the fundamentals of becoming a front end developer! 👨‍💻 
 - 🤓 I’m looking to collaborate on future apps and websites!
-- 📫 How to reach me: octoberferm@gmail.com is the best way to reach me! 
+- 📫 How to reach me: matthew.t.fermo@gmail.com is the best way to reach me! 
 
 <!---
 octoberferm/octoberferm is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
